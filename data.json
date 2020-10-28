@@ -1,0 +1,167 @@
+{
+    "banner": [
+      "banner1",
+      "banner2",
+      "banner3"
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "American",
+        "color": "#fbc831",
+        "image": "american"
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "color": "#9fd236",
+        "image": "burger"
+      },
+      {
+        "id": 3,
+        "name": "Pizza",
+        "color": "orange",
+        "image": "pizza"
+      },
+      {
+        "id": 4,
+        "name": "Drink",
+        "color": "#f2f2f2",
+        "image": "drink"
+      }
+    ],
+    "food": [
+      {
+        "name": "Beef Grill",
+        "price": 24,
+        "categorie": 1,
+        "image": "beefGrill"
+      },
+      {
+        "name": "Chicken Picatta",
+        "price": 20,
+        "categorie": 1,
+        "image": "chickenPiccata"
+      },
+      {
+        "name": "Chicken Romesco",
+        "price": 21,
+        "categorie": 1,
+        "image": "chickenRomesco"
+      },
+      {
+        "name": "Chicken Grill",
+        "price": 22,
+        "categorie": 1,
+        "image": "chickenGrill"
+      },
+      {
+        "name": "Salmon Grill",
+        "price": 26,
+        "categorie": 1,
+        "image": "salmonGrill"
+      },
+      {
+        "name": "Salmon Romesco",
+        "price": 25,
+        "categorie": 1,
+        "image": "salmonRomesco"
+      },
+      {
+        "name": "Burger Home",
+        "price": 16,
+        "categorie": 2,
+        "image": "burger1"
+      },
+      {
+        "name": "MegaBurger",
+        "price": 16,
+        "categorie": 2,
+        "image": "burger2"
+      },
+      {
+        "name": "Burger Special",
+        "price": 16,
+        "categorie": 2,
+        "image": "burger3"
+      },
+      {
+        "name": "Burger Cheese",
+        "price": 16,
+        "categorie": 2,
+        "image": "burger4"
+      },
+      {
+        "name": "Burger Farmer",
+        "price": 16,
+        "categorie": 1,
+        "image": "burger5"
+      },
+      {
+        "name": "Mini Burger",
+        "price": 16,
+        "categorie": 2,
+        "image": "burger6"
+      },
+      {
+        "name": "Pizza Vegan",
+        "price": 14,
+        "categorie": 3,
+        "image": "pizza1"
+      },
+      {
+        "name": "Pizza Bufalisimo",
+        "price": 14,
+        "categorie": 3,
+        "image": "pizza2"
+      },
+      {
+        "name": "Pizza Haiwaiana",
+        "price": 13,
+        "categorie": 3,
+        "image": "pizza3"
+      },
+      {
+        "name": "Pizza Peperoni",
+        "price": 16,
+        "categorie": 3,
+        "image": "pizza4"
+      },
+      {
+        "name": "Pizza Vegan 2",
+        "price": 12,
+        "categorie": 3,
+        "image": "pizza5"
+      },
+      {
+        "name": "Pizza Napolitana",
+        "price": 18,
+        "categorie": 3,
+        "image": "pizza6"
+      },
+      {
+        "name": "Coca cola",
+        "price": 2,
+        "categorie": 4,
+        "image": "cocacola"
+      },
+      {
+        "name": "Pepsi",
+        "price": 2,
+        "categorie": 4,
+        "image": "pepsi"
+      },
+      {
+        "name": "Quatro",
+        "price": 2,
+        "categorie": 4,
+        "image": "quatro"
+      },
+      {
+        "name": "Sprite",
+        "price": 2,
+        "categorie": 4,
+        "image": "sprite"
+      }
+    ]
+  }
